@@ -1,7 +1,7 @@
 ### Olá, meu nome é Emily 👋
 
 
-- 🌱Atualment estudando C#,C++(glut) e Html com Css
+- 🌱sempre aprendendo mais 💪
 - 😄 Pronouns: Ela/Dela
 <div >
   
