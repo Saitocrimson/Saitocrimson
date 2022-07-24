@@ -1,7 +1,7 @@
 ### Olá, meu nome é Emily 👋
 
 
-- 🌱sempre aprendendo mais 💪
+- 🌱sempre aprimorando os conhecimentos
 - 😄 Pronouns: Ela/Dela
 <div >
   
