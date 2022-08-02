@@ -1,4 +1,7 @@
-### Olá, meu nome é Emily 👋
+# Hello, how are you?
+(en)My name is Emily, welcome to my repository  
+
+(pt-br)Meu nome é Emily, bom-vindo ao meu repostirio 
 
 
 - 🌱sempre aprimorando os conhecimentos
