@@ -4,7 +4,7 @@
 (pt-br)Meu nome é Emily, bom-vindo ao meu repostirio 
 
 
-- 🌱Estudando para me tornar uma desenvolvidora ^-^
+- 🌱Estudando para me tornar uma desenvolvedora ^-^
 - 😄 Pronouns: Ela/Dela
 <div >
   
